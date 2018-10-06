@@ -10,6 +10,8 @@ We're able to bring an idea from the beginning stages all the way to fruition, a
 
 In the past we've done major refactoring of existing websites in order to move service providers, built mobile applications from the ground up using device native code, fixed bugs and added features in existing production applications, and managed a few of our own projects of interest.
 
+**_NOTE: This website is currently under construction so past and current projects will be added over time as well as more informative pages and links._**
+
 # Projects
 
 ## Tron
