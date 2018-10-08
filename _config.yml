@@ -1,6 +1,7 @@
 title: HassleFree Solutions, LLC.
 logo: /assets/img/logo.png
-description: The official website of HassleFree Solutions, LLC.
-show_downloads: true
+description: Creating software we love, for others to enjoy.
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
+repository: HF-Solutions/hf-solutions.github.io
