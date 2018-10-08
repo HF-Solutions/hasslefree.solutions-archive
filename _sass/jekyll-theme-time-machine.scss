@@ -2,6 +2,10 @@
 
 /* Style */
 
+.center-text {
+  text-align: center;
+}
+
 body {
   font-size: 15px;
   font-family: Arial, Arial, Helvetica, sans-serif;
@@ -35,7 +39,7 @@ h1.title {
 }
 
 .wrapper {
-  width: 675px;
+  width: 50%;
   margin: 0 auto;
 }
 
@@ -132,8 +136,6 @@ p.tagline {
   background: transparent url(../images/code.png) no-repeat 0 2px;
   padding-left: 35px;
   margin-top: 8px;
-  display: block;
-  float: left;
   text-indent: 0;
   width: auto;
   height: auto;
@@ -144,9 +146,8 @@ p.tagline {
 .current-section {
   position: fixed;
   top: 0;
-  left: 50%;
-  width: 693px;
-  margin-left: -352px;
+  left: 24%;
+  width: 51%;
   background: #222;
   border: 5px solid #444;
   color: #fff;
@@ -411,7 +412,7 @@ footer .owner p a {
 }
 
 .markdown-body table {
-  width: 673px;
+  width: 100%;
   margin-left: -20px;
   margin-right: -20px;
 }
