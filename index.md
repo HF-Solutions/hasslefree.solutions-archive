@@ -34,6 +34,8 @@ Tron is our longest lasting and most worked on project over the years. It's a Di
 
 Nearly all of the commands added to the bot were suggestions from users at one point or another. Either by posting on the official Discord server, or by using the `+suggestion` command.
 
+Invite Tron to *your* server [here][23] 😊
+
 ## Savior Energy Solutions, Inc.
 
 ![Savior_Energy_Logo][5]
@@ -143,3 +145,4 @@ Developer in training.
 [20]: mailto:dingleflop@hasslefree.solutions
 [21]: mailto:mimiru@hasslefree.solutions
 [22]: mailto:zenora@hasslefree.solutions
+[23]: https://discordapp.com/oauth2/authorize?client_id=258162570622533635&scope=bot
