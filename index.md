@@ -60,7 +60,7 @@ Enmeti is [a small extension][1] for [Visual Studio Code][2] that makes it easie
 
 A better way of describing it would be to show by example:
 
-_NOTE: If you're unable to see the gif below clearly, you can right click it and select `Open image in new tab` and it will show the full size._
+_NOTE: If you're unable to see the gif below clearly, you can right click it and select **Open image in new tab** and it will show the full size._
 
 ![Example][3]
 
