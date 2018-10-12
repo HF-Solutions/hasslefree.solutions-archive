@@ -125,10 +125,10 @@ Developer in training.
 [1]: https://marketplace.visualstudio.com/items?itemName=hf-solutions-llc.enmeti
 [2]: https://code.visualstudio.com/
 [3]: https://i.imgur.com/nBSbHg0.gif
-[4]: ./assets/img/Tron_Logo.jpg
-[5]: ./assets/img/Savior_Energy_Logo.png
-[6]: ./assets/img/Enmeti_Logo.png
-[7]: ./assets/img/Stoneleigh_Logo.png
+[4]: ./assets/img/projects/Tron_Logo.jpg
+[5]: ./assets/img/projects/Savior_Energy_Logo.png
+[6]: ./assets/img/projects/Enmeti_Logo.png
+[7]: ./assets/img/projects/Stoneleigh_Logo.png
 [8]: https://www.stoneleighconsulting.com/
 [9]: https://www.stoneleighconsulting.com/#no-fee-anthony
 [10]: mailto:hello@hasslefree.solutions
@@ -137,9 +137,9 @@ Developer in training.
 [13]: https://dev.to/hf-solutions
 [14]: https://github.com/HF-Solutions
 [15]: https://marketplace.visualstudio.com/publishers/hf-solutions-llc
-[16]: ./assets/img/Alcha.png
-[17]: ./assets/img/Mimyru.gif
-[18]: ./assets/img/Zenora.gif
+[16]: ./assets/img/team/Alcha.png
+[17]: ./assets/img/team/Mimyru.gif
+[18]: ./assets/img/team/Zenora.gif
 [19]: https://i.imgur.com/4qbOj0P.png
 
 [20]: mailto:dingleflop@hasslefree.solutions
